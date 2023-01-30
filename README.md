@@ -1,3 +1,5 @@
+# Advanced CSS and SASS course by @jonasschmedtmann
+
 # Astro Starter Kit: Minimal
 
 ```
