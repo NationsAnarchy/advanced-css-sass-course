@@ -1,4 +1,6 @@
-# Advanced CSS and SASS course by @jonasschmedtmann
+# Advanced CSS and SASS course 
+
+By @jonasschmedtmann
 
 # Astro Starter Kit: Minimal
 
